@@ -1,5 +1,5 @@
 # Arvatocustomersegmentation
-![Image of result](https://github.com/ShuangyuandData/StockPriceIndicator/blob/master/f1.png)
+![Image of result](https://github.com/ShuangyuandData/Arvatocustomersegmentation/blob/master/logo_arvato.jpg)
 ## Summary
 The project uses unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments.
 
